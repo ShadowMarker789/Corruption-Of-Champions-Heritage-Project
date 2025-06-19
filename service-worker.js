@@ -3,7 +3,6 @@ const CACHE_NAME = 'hello-world-cache-v1';
 
 // Files to cache
 const urlsToCache = [
-    '/',
     './index.html',
     './css/styles.css',
     './js/main.js'
