@@ -6,9 +6,7 @@ const urlsToCache = [
     '/',
     '/index.html',
     '/css/styles.css',
-    '/js/main.js',
-    '/assets/icons/icon-192.png',
-    '/assets/icons/icon-512.png'
+    '/js/main.js'
 ];
 
 // Install event: Cache files
