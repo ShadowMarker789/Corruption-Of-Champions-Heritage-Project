@@ -1,0 +1,8 @@
+{
+  "name": "Corruption of Champions Heritage Project",
+  "short_name": "CoC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#333"
+}
